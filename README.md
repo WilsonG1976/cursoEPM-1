@@ -7,4 +7,7 @@ WILSON DARIO GRACIANO BRAVO <Wilson.Graciano@epm.com.co>
 JOHN ALEJANDRO COLORADO HENAO <JOHN.COLORADO@epm.com.co>
 CARLOS IVAN URIBE CAMARGO <CARLOS.URIBE@epm.com.co>
 
-pendiente...
+Hicimos dos cambios, en el archivo:
+1. datosmaestro_epm_corr: corregimos XXXX
+
+2. XXX: hicimos esto...
